@@ -1,0 +1,47 @@
+[
+    {
+        "model": "movies.movie",
+        "pk": 1,
+        "fields": {
+            "title": "Valkyrie",
+            "year": "2008",
+            "runtime": "121",
+            "actors": [1, 3, 4, 5],
+            "plot": "A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II."
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 2,
+        "fields": {
+            "title": "Ratatouille",
+            "year": "2007",
+            "runtime": "111",
+            "actors": [6, 7, 8, 10],
+            "plot": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant."
+        }
+
+    },
+    {
+        "model": "movies.movie",
+        "pk": 3,
+        "fields": {
+            "title": "City of God",
+            "year": "2002",
+            "runtime": "130",
+            "actors": [11, 12, 13, 14],
+            "plot": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer."
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 4,
+        "fields": {
+            "title": "Memento",
+            "year": "2000",
+            "runtime": "113",
+            "actors": [15, 16, 17, 18],
+            "plot": "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle."
+        }
+    }
+]
