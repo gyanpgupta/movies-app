@@ -4,19 +4,19 @@ Movie App is an small application for Listing the movies and a little detail of 
 
 ## Features
 
--- List all the movies
--- Create a movie
--- Update a movie
--- List actors
--- Create actor
--- Update actor
--- Delete actor
+- List all the movies
+- Create a movie
+- Update a movie
+- List actors
+- Create actor
+- Update actor
+- Delete actor
 
 ### Pre-requirements
 These services must be installed, configured and running:
 
--- MySql
--- Python (>= 3.8)
+- MySql
+- Python (>= 3.8)
 
 
 ## Installation
